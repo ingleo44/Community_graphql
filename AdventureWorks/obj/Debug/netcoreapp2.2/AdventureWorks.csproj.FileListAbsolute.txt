@@ -1,0 +1,3 @@
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.2\AdventureWorks.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.2\AdventureWorks.AssemblyInfoInputs.cache
+C:\Users\leonardo.sanchez.ENDAVA\source\repos\AdventureWorks\AdventureWorks\obj\Debug\netcoreapp2.2\AdventureWorks.AssemblyInfo.cs
